@@ -19,4 +19,4 @@
    
 > [!NOTE]
 >
-> 文章来源于 [这里](https://www.andnixsh.com/2020/03/how-to-unpack-awbafs2-file-to-wav.html)
+> 原文章来源于 [这里](https://www.andnixsh.com/2020/03/how-to-unpack-awbafs2-file-to-wav.html)
